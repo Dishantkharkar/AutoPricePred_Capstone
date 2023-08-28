@@ -59,4 +59,11 @@ We would like to express our gratitude to our team members for their collaborati
 Feel free to explore the project, provide feedback, and join us in this exciting data science endeavor!
 
 
+## Result:
+Based on Our results, it's clear that the XGBRegressor with hyperparameter tuning outperformed the initial model. The mean absolute error and root mean squared error were both reduced, indicating improved predictive accuracy. The R-squared score also increased slightly, indicating a better fit to the data. Therefore, the final model choice would be the XGBRegressor with hyperparameter tuning due to its superior performance on this dataset.
 
+* Team ID - PTID-CDS-AUG-23-1609
+* Team Members mail_id - ssmmtj2511@gmail.com, rahini15ece@gmail.com, payalkharkar8@gmail.com, dishantkharkar9@gmail.com, meghamalasadangi616@gmail.com.
+
+  
+Thank You
